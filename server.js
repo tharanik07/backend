@@ -5,7 +5,7 @@ const db = require('./db');
 const app = express();
 app.use(express.json()); 
 app.use(cors({
-    origin: 'https://frontend-kq827splt-tharani-kumars-projects.vercel.app', 
+    origin: 'https://frontend-git-master-tharani-kumars-projects.vercel.app/', 
 }));
 
 
